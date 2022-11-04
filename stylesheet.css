@@ -1,0 +1,27 @@
+header-logo{
+    height: 17px;
+    width: 200px;
+    left: 142px;
+    top: 58px;
+
+}
+
+
+
+span{
+        color:#2CA1F8;
+}
+
+li{
+        list-style: none;
+        float: left;
+        height: 23px;
+        width: 568px;
+        left: 1043px;
+        top: 52px;
+
+}
+
+.header-logo{
+        float: left;
+}
